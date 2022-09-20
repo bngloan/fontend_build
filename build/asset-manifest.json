@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.7b5d534d.css",
-    "main.js": "/static/js/main.dc6d89e4.js",
+    "main.css": "/static/css/main.75ad5fb0.css",
+    "main.js": "/static/js/main.6e532651.js",
     "static/js/787.63536482.chunk.js": "/static/js/787.63536482.chunk.js",
     "static/media/happy4.webp": "/static/media/happy4.fd523fa43aebbda8100b.webp",
     "static/media/happy3.webp": "/static/media/happy3.a0f6b25389b4424d29e5.webp",
@@ -25,16 +25,19 @@
     "static/media/bgblur.webp": "/static/media/bgblur.febb108cfe505ea7f591.webp",
     "static/media/BNG_logo2.png": "/static/media/BNG_logo2.12bfc2ca421ffa8d0a9c.png",
     "static/media/line.webp": "/static/media/line.1e44149ef4f9263083c5.webp",
+    "static/media/txt3.webp": "/static/media/txt3.83403af44212a3d30149.webp",
     "static/media/blank_profile.png": "/static/media/blank_profile.a9136072d073801df253.png",
     "static/media/card-bg7.jpg": "/static/media/card-bg7.d66831b83a6449b002d7.jpg",
+    "static/media/txt1.webp": "/static/media/txt1.bc2fa7b7be59e2e905e1.webp",
+    "static/media/txt2.webp": "/static/media/txt2.3c38b91e7e0b2b9c8a9d.webp",
     "static/media/gmail.png": "/static/media/gmail.d765005ce9d4caa3d69e.png",
     "index.html": "/index.html",
-    "main.7b5d534d.css.map": "/static/css/main.7b5d534d.css.map",
-    "main.dc6d89e4.js.map": "/static/js/main.dc6d89e4.js.map",
+    "main.75ad5fb0.css.map": "/static/css/main.75ad5fb0.css.map",
+    "main.6e532651.js.map": "/static/js/main.6e532651.js.map",
     "787.63536482.chunk.js.map": "/static/js/787.63536482.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b5d534d.css",
-    "static/js/main.dc6d89e4.js"
+    "static/css/main.75ad5fb0.css",
+    "static/js/main.6e532651.js"
   ]
 }
